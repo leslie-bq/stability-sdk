@@ -39,7 +39,7 @@ classifiers = [
 dependencies = [
     "Pillow",    
     "protobuf>=3.19,<5.0",
-    "pydantic>=1.9.2,<2.0",
+    "pydantic>=1.9.2",
     "python-dotenv",    
     "grpcio>=1.45.0",
 ]
